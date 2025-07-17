@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 // Importo el logo
-import logo from './assets/logo.jpg';
+import logo from './assets/logo.png';
 
 const preguntas = [
   // Matemáticas (reales)
